@@ -210,10 +210,10 @@ Here are some helpful resources to enhance your Java programming skills:
 
 If you find this repository helpful, please give it a ⭐️!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/aakash8149)
-- **GitHub:** [Your GitHub Profile](https://github.com/aakash8149)
+- **LinkedIn:** [aakash8149](https://linkedin.com/in/aakash8149)
+- **GitHub:** [aakash8149](https://github.com/aakash8149)
 - **Email:** aakashdas7908@gmail.com
-- **Portfolio:** [Your Portfolio Website]((https://aakash-das-portfolio-ubo3cn8.gamma.site/))
+- **Portfolio:** [Click me]((https://aakash-das-portfolio-ubo3cn8.gamma.site/))
 
 ## 📄 License
 
