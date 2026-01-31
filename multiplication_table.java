@@ -1,0 +1,18 @@
+package Flow_Controls_Loops;
+
+import java.util.Scanner;
+
+// Multiplication Table for N Numbers
+public class multiplication_table {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number: ");
+        int n = sc.nextInt();
+
+        for(int i=1; i<=10; i++){
+            System.out.println(n + " X " + i + " = " + n*i);
+        }
+        sc.close();
+
+    }
+}
